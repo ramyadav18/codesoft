@@ -3,6 +3,11 @@ TASK - 2 (CALCULATOR)
 Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice. 
 Perform the calculation and display the result.
+
+
+
+
+
 TASK - 5 (QUIZ GAME)
 Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on a specific topic. The game
 should keep track of scores, provide feedback on correct/incorrect answers, and offer a variety of questions to make
